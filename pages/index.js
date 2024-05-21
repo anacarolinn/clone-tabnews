@@ -1,6 +1,6 @@
 function home(){
     return <div>
-        <h1>Eu consegui enviar essa mensagem para internet!!!!!!!!!!!!!!!!</h1>
+        <h1>Essa agora é só pra ter certeza de que vai atualiazar</h1>
     </div>
 }
 
