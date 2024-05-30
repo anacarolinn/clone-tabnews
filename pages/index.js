@@ -6,12 +6,4 @@ function home() {
   );
 }
 
-function teste() {
-  console.log("teste");
-}
-
-function teste() {
-  console.log("identação errada");
-}
-
 export default home;
